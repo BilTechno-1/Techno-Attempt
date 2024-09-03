@@ -8,6 +8,7 @@ public class GitDeneme {
         System.out.println("Task 1 yapıldı");
 
         System.out.println("Task 2 kodları");
+
         System.out.println("task 2 eklendi");
 
 
